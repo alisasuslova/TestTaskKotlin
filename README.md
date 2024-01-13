@@ -79,6 +79,5 @@
 ```
 ## Входные данные:
 
-[Скрин_1](https://github.com/alisasuslova/TestTaskJava/blob/main/res_1.JPG)
-
+[Скрин_1](https://github.com/alisasuslova/TestTaskKotlin/blob/main/res_3.JPG)
 
