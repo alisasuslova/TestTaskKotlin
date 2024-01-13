@@ -77,7 +77,7 @@
         compressionRatio(stringLength, stringLengthASCII)
     }
 ```
-## Входные данные:
+## Выходные данные:
 
 [Скрин_1](https://github.com/alisasuslova/TestTaskKotlin/blob/main/res_3.JPG)
 
